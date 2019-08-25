@@ -5,6 +5,8 @@ Our Air Purifier is a Smart Air Purifier that combines both air purification and
 
 **Github Website: [https://hamtamsp.github.io/EED-CA3-2019/](https://hamtamsp.github.io/EED-CA3-2019/ "Github.io Webpage")**
 
+**Github Repository: [https://github.com/hamtamSP/EED-CA3-2019/](https://github.com/hamtamSP/EED-CA3-2019/ "Github repository Link")**
+
 ## Technical Information
 
 ### Repository Layout
