@@ -39,9 +39,9 @@ Below is a Table that shows the Different Information that is displayed about th
 
 
 ## Our Team
-- Arian Yap - Studies in Singapore Polytechnic - Diploma in Electrical and Electronics Engineering
-- Jayvien Ng - Studies in Singapore Polytechnic - Diploma in Electrical and Electronics Engineering
-- Jia Nan - Studies in Singapore Polytechnic - Diploma in Computer Engineering
+- **Arian Yap -** Studies in Singapore Polytechnic - Diploma in Electrical and Electronics Engineering
+- **Jayvien Ng -** Studies in Singapore Polytechnic - Diploma in Electrical and Electronics Engineering
+- **Jia Nan -** Studies in Singapore Polytechnic - Diploma in Computer Engineering
 
 [lcd]: https://github.com/hamtamSP/EED-CA3-2019/raw/master/Media%20Assets/lcd-u.png "LCD Layout"
 [slides]: https://github.com/hamtamSP/EED-CA3-2019/raw/master/Media%20Assets/Slides.jpeg "Slides"
