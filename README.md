@@ -16,7 +16,7 @@ Our Air Purifier is a Smart Air Purifier that combines both air purification and
 ## Technical Information
 
 ### Repository Layout
-- **V1 Resources:** Resources for V1 of Air Purifier.
+- **[V1 Resources:](https://github.com/hamtamSP/EED-CA3-2019/tree/master/V1%20Resources "Version 1 Resources Folser")** Resources for Version 1 of Air Purifier.
 - **[Media Assets](https://github.com/hamtamSP/EED-CA3-2019/raw/master/Media%20Assets/ "Media Assets Folder"):** Media Assets for Website and Repository.
 - **docs:** Assets for Github Pages.
 
