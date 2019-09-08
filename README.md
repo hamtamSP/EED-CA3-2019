@@ -20,7 +20,7 @@ Our Air Purifier is a Smart Air Purifier that combines both air purification and
 - **docs**: Assets for Github Pages.
 
 ### LCD Display Layout
-![alt text][lcd]
+![lcd]
 
 Below is a Table that shows the Different Information that is displayed about the Air Purifier on the LCD.
 
