@@ -9,6 +9,10 @@ Our Air Purifier is a Smart Air Purifier that combines both air purification and
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=CvHPtnu_Fcc" target="_blank"><img src="http://img.youtube.com/vi/CvHPtnu_Fcc/0.jpg" alt="Air Purifier Video" width="240" height="180" border="10" /></a>
 
+**Slides: [https://github.com/hamtamSP/EED-CA3-2019/blob/master/V1%20Resources/EED%20CA3%20Presentation-U.pdf](https://github.com/hamtamSP/EED-CA3-2019/blob/master/V1%20Resources/EED%20CA3%20Presentation-U.pdf "Slides")**
+
+![alt text][slides]
+
 ## Technical Information
 
 ### Repository Layout
@@ -40,3 +44,4 @@ Below is a Table that shows the Different Information that is displayed about th
 - Jia Nan - Studies in Singapore Polytechnic - Diploma in Computer Engineering
 
 [lcd]: https://github.com/hamtamSP/EED-CA3-2019/raw/master/Media%20Assets/lcd-u.png "LCD Layout"
+[slides]: https://github.com/hamtamSP/EED-CA3-2019/raw/master/Media%20Assets/Slides.jpeg "Slides"
