@@ -20,7 +20,7 @@ Our Air Purifier is a Smart Air Purifier that combines both air purification and
 - **docs**: Assets for Github Pages.
 
 ### LCD Display Layout
-![lcd]
+![alt text][lcd]
 
 Below is a Table that shows the Different Information that is displayed about the Air Purifier on the LCD.
 
@@ -42,4 +42,4 @@ Below is a Table that shows the Different Information that is displayed about th
 - Jayvien Ng - Studies in Singapore Polytechnic - Diploma in Electrical and Electronics Engineering
 - Jia Nan - Studies in Singapore Polytechnic - Diploma in Computer Engineering
 
-[lcd]: https://github.com/hamtamSP/EED-CA3-2019/blob/master/Media%20Assets/lcd-u.png "LCD Layout"
+[lcd]: https://github.com/hamtamSP/EED-CA3-2019/raw/master/Media%20Assets/lcd-u.png "LCD Layout"
